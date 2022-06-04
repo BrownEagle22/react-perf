@@ -1,0 +1,7 @@
+.container:hover {
+    background-color: rgb(206, 236, 255);
+}
+
+.selected {
+    background-color: lightskyblue !important;
+}
